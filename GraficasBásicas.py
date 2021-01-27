@@ -22,7 +22,7 @@ ax.set_ylabel('Ventas')
 ax.set_title('Cantidad de Ventas por Pais')
 #Creamos la grafica de barras utilizando 'paises' como eje X y 'ventas' como eje y.
 plt.bar(paises, ventas)
-plt.savefig('barras_simple.png') # Oiga recuerde que que es un diagrama de barras 
+plt.savefig('barras_simple.png') # Oiga guardeme este diagrama de barras 
 #Finalmente mostramos la grafica con el metodo show()
 plt.show()
 
