@@ -101,3 +101,14 @@ plt.title("Principal Medio de Transporte")
 plt.legend()
 plt.savefig('grafica_pastel.png')
 plt.show()
+
+
+# Graficando histograma
+mu, sigma = 0, 0.2 # media y desvio estándar
+datos = np.random.normal(mu, sigma, 1000) #creando muestra de datos
+# histograma de distribución normal.
+cuenta, cajas, ignorar = plt.hist(datos)
+plt.ylabel("Frrecuaencia")
+plt.xlabel("valores")
+plt.title("Histograma")
+plt.show()
