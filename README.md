@@ -17,8 +17,6 @@ Por eso el laboratorio fintrade ha creado este repositorio, acá encontrarán ma
 
 | Código | Tema |
 | --- | --- |
-| Primeros pasos y sesión 1| Introducción y funciones principales|
-| Sesión 2| Comando básicos y trabajo con datos cargados |
-| Sesión 3| Gráficos estadísticos básicos |
-| Sesión 4 | Gráficos dinámicos con plotly|
-| Regresión | Código para realizar un análisis de regresión junto con la validación de supuestos econométricos |
+| Fundamentos| Introducción, operaciones y graficas básicas| 
+| Estadistica| Estadistica descriptiva y caminatas aleatorias|
+| Econometría| Regresión lineal y modelo econometrico ARIMA|
